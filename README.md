@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
