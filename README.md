@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Bracket Sequences
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Iterator
 |  |
 | ------- |
