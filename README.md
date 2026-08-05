@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [1002-find-common-characters](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
