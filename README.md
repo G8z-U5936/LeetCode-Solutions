@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0832-flipping-an-image](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Design
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -272,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0832-flipping-an-image](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
