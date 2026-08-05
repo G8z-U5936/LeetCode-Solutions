@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
