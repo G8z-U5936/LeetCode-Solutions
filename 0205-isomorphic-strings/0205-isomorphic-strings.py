@@ -1,0 +1,34 @@
+from collections import Counter
+class Solution:
+    def isIsomorphic(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return false
+    
+        s_to_t = {}
+        t_to_s = {}
+        
+        for cs,ct in zip(s,t):
+            if cs in s_to_t and s_to_t[cs] != ct:
+                return False
+            else:
+                s_to_t[cs] = ct
+
+            if ct in t_to_s and t_to_s[ct] != cs:
+                return False
+            else:
+                t_to_s[ct] = cs
+
+        return True        
+
+
+          
+
+                
+
+
+
+
+
+
+
+
