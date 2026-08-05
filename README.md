@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
