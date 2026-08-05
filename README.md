@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
