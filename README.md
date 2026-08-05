@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Counting
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
