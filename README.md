@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0594-longest-harmonious-subsequence](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,8 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
