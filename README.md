@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0832-flipping-an-image](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Greedy
@@ -232,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
