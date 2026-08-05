@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0227-basic-calculator-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
