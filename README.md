@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0769-max-chunks-to-make-sorted](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Bucket Sort
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Recursion
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
