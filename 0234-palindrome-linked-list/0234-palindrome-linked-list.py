@@ -19,7 +19,7 @@ class Solution:
         n = len(lst)
         i = 0
         j = n - 1
-        while i < j:
+        while i <= j:
             if lst[i] == lst[j]:
                 i += 1
                 j -= 1
