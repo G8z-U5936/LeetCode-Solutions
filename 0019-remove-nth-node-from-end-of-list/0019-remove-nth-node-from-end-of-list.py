@@ -5,38 +5,6 @@ class ListNode:
         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-    # 1st approach can be reversing the list and removing the the element and then finally rrversing the linked list 
-    # overall t.c --- o(n)
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 2nd approach using  two pointer:
         dummy = ListNode(0,head)
         first = dummy 
         second = dummy
