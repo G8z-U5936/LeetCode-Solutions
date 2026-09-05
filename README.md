@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -421,4 +424,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/G8z-U5936/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
