@@ -24,8 +24,9 @@ class Solution:
 
         ans = []
 
-        for value, frequency in freq.items():
-            if frequency == max_frequency:
-                ans.append(value)
+        for key, value in freq.items():
+            if value == max_frequency:
+                ans.append(key)
 
         return ans
+
