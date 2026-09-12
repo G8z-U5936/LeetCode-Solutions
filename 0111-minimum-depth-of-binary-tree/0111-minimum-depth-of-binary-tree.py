@@ -11,7 +11,7 @@ class Solution:
         if not root:
             return 0
         queue = deque([(root,1)])
-        depth = 0
+        # depth = 0
 
         while queue:
             node, depth = queue.popleft()
